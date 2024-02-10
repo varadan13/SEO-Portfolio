@@ -20,6 +20,7 @@
 - https://www.dumplingdynasty.com.au/
 - https://www.burgerdaysfrankston.com.au/
 - https://www.burgerlovefrankston.com.au/
+- https://www.hungrymouthpizza.com
 
 ## What was done?
 
