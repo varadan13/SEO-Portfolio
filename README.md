@@ -21,6 +21,7 @@
 - https://www.burgerdaysfrankston.com.au/
 - https://www.burgerlovefrankston.com.au/
 - https://www.hungrymouthpizza.com
+- https://www.thespiceclubfrankston.com/
 
 ## What was done?
 
