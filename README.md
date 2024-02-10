@@ -19,6 +19,7 @@
 - https://www.huyskitchen.com.au/
 - https://www.dumplingdynasty.com.au/
 - https://www.burgerdaysfrankston.com.au/
+- https://burgerlovefrankston.com.au/
 
 ## What was done?
 
